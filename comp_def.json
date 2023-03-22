@@ -1,0 +1,22 @@
+{
+    "c1": {
+        "dist": "Weibull",
+        "param1": 260.0,
+        "param2": 3.2
+    },
+    "c2": {
+        "dist": "Weibull",
+        "param1": 250.0,
+        "param2": 2.3
+    },
+    "c3": {
+        "dist": "Weibull",
+        "param1": 3800.0,
+        "param2": 4.1
+    },
+    "c4": {
+        "dist": "Weibull",
+        "param1": 430.0,
+        "param2": 1.5
+    }
+}

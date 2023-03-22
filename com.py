@@ -273,7 +273,7 @@ def show_add_comp(compKey):
         st.write('Component ', comp_name, ' was deleted.')
 
 def show_comp_config_File():
-    c_c_filename = filePath + 'comp_config.txt'
+    c_c_filename =  'comp_config.txt'
     c_c_file = open(c_c_filename)
     c_c_data = c_c_file.read()
 
